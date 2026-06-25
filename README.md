@@ -1,3 +1,13 @@
+---
+lab:
+    title: TechLab: Get Started with Models in Microsoft Foundry: From First Inference to Deployed Agent
+    description:
+    level: 200
+    duration: 120 minutes
+    islab: true
+    primarytopics:
+---
+
 @lab.Title
 
 ## Welcome to Your Lab Environment
